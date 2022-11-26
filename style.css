@@ -164,7 +164,7 @@
   * ! style rules for button 
   **/
   
-  button {
+   #submit {
     margin-top: 15px;
     width: 100%;
     height: 45px;
@@ -178,7 +178,7 @@
     transition: all 0.1s ease;
   }
   
-  button:hover {
+  #submit:hover {
     opacity: 0.8;
   }
   
